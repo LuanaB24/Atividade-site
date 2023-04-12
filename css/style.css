@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500&display=swap');
+
+body {
+    background-color: rgb(3, 66, 192);
+}
+
+
+:root{
+    --fonte-primaria:'inter', sans-serif;
+}
+
+.site_titulo{
+    font-family: var(--fonte-primaria);
+    font-size: 200;
+}
